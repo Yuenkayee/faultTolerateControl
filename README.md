@@ -1,2 +1,2 @@
-# RLForFaultTolerateControl
-This is project for fault tolerate control using RL
+# FaultTolerateControl
+This is project for fault tolerate control using Deep learning
